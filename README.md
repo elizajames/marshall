@@ -1,2 +1,2 @@
 # marshall
-Virginia Museum of Fine Arts repo of QDC metadata for DPLAVA
+Marshall repo of QDC metadata for DPLAVA
